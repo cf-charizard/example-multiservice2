@@ -104,3 +104,5 @@ choose_color
 choose_jira_issue
 choose_commit_message
 choose_commiter
+
+#test_commit
